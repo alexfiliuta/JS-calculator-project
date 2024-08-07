@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: #424242;
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    border-radius: 5px;
+    background-color: #EF5350;
+    margin-top: 30px;
+    padding: 20px 15px;
+    margin-left: calc((100% - 580px) / 2);
+    width: 550px;
+}
+
+section#status {
+    margin-bottom: 25px;
+    padding: 25px 0;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #37474F;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+section#Slots {
+    border-radius: 15px;
+    background-color: #FAFAFA;
+}
+
+section#gameplay {
+    margin-top: 25px;
+    padding: 25px 0;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #AB47BC;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+section#gameplay:hover {
+    background-color: #BA68C8;
+}
+
+section#options {
+    margin-top: 20px;
+    padding-top: 5px;
+    border-radius: 5px;
+    background-color: #C62828;
+    color: #FFFFFF;
+}
+
+.option {
+    padding-left: 5px;
+}
+
+#slot1, #slot2, #slot3 {
+    display: inline-block;
+    margin: 5px 15px;
+    background-size: 150px;
+    width: 150px;
+    height: 150px;
+}
+
+.a1 {
+    background-image: url("resources/tiles/seven.png");
+}
+
+.a2 {
+    background-image: url("resources/tiles/cherries.png");
+}
+
+.a3 {
+    background-image: url("resources/tiles/club.png");
+}
+
+.a4 {
+    background-image: url("resources/tiles/diamond.png");
+}
+
+.a5 {
+    background-image: url("resources/tiles/heart.png");
+}
+
+.a6 {
+    background-image: url("resources/tiles/spade.png");
+}
+
+.a7 {
+    background-image: url("resources/tiles/joker.png");
+}
