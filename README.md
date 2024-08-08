@@ -38,11 +38,11 @@ To use or view any of the applications in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/alexfiliuta/js-small-applications.git
+    git clone https://github.com/alexfiliuta/JavaScript-online-applications.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd js-small-applications
+    cd JavaScript-online-applications
     ```
 3. Open the specific project folder you want to explore.
 4. Open the `index.html` file in your preferred web browser to view and interact with the application.
